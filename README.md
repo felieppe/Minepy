@@ -17,5 +17,5 @@ The following short steps are to run the program:
 
 Platform | Releases
 -------- | ------ 
-Windows | [Latest](https://github.com/felieppe/Minepy/releases/latest) ◦ [All](https://github.com/felieppe/Minepy/releases/tag/1.0.0)
+Windows | [Latest](https://github.com/felieppe/Minepy/releases/latest) ◦ [All](https://github.com/felieppe/Minepy/tags)
 Linux | Not available!
